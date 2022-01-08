@@ -45,7 +45,7 @@ else:
 
 ```
 ## output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Search-Algorithm/blob/main/ex%2008(1).png?raw=true)
 
 ## Program:
 ii)	# Find the element in a list using Binary Search(Iterative Method).
@@ -74,7 +74,7 @@ result = binarySearchIter(array, k, 0, len(array)-1)
 
 ```
 ## output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Search-Algorithm/blob/main/ex%2008(2).png?raw=true)
 
 ## Program:
 iii)	# Find the element in a list using Binary Search (recursive Method).
@@ -110,7 +110,7 @@ else:
 
 ```
 ## output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Search-Algorithm/blob/main/ex%2008(3).png?raw=true)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
